@@ -18,7 +18,7 @@ Rather than a single chart-on-a-CSV demo, this project covers the full analytics
 
 ## Live Demo
 
-*[Add your Streamlit Community Cloud link here once deployed]*
+*[https://saas-renewal-analytics-2mpu7afaqwoegmu4vut88n.streamlit.app/]*
 
 ## Key Features
 
